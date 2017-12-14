@@ -1,0 +1,3 @@
+ this  is hte following to create ec2 instance
+
+http://www.bogotobogo.com/DevOps/AWS/aws-CLI-Command-Line-Interface.php
